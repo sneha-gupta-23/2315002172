@@ -70,3 +70,11 @@ Whenever a new notification arrives:
 3. Remove minimum if size > 10.
 
 This ensures efficient maintenance of Top 10 notifications in real time.
+
+## API Integration
+
+The protected Notifications API was successfully tested using Postman.
+
+Authentication was performed using the provided clientID, clientSecret, accessCode, and Bearer token workflow.
+
+For Stage 1 implementation, notification processing and priority ranking logic were demonstrated using sample notification data while validating API accessibility separately.
